@@ -1,0 +1,7 @@
+C:\Users\VLINK\Documents\Visual Studio 2017\Projects\InterfaceTest\InterfaceAsCommonClassSignature\bin\Debug\InterfaceAsCommonClassSignature.exe.config
+C:\Users\VLINK\Documents\Visual Studio 2017\Projects\InterfaceTest\InterfaceAsCommonClassSignature\bin\Debug\InterfaceAsCommonClassSignature.exe
+C:\Users\VLINK\Documents\Visual Studio 2017\Projects\InterfaceTest\InterfaceAsCommonClassSignature\bin\Debug\InterfaceAsCommonClassSignature.pdb
+C:\Users\VLINK\Documents\Visual Studio 2017\Projects\InterfaceTest\InterfaceAsCommonClassSignature\obj\Debug\InterfaceAsCommonClassSignature.csprojAssemblyReference.cache
+C:\Users\VLINK\Documents\Visual Studio 2017\Projects\InterfaceTest\InterfaceAsCommonClassSignature\obj\Debug\InterfaceAsCommonClassSignature.csproj.CoreCompileInputs.cache
+C:\Users\VLINK\Documents\Visual Studio 2017\Projects\InterfaceTest\InterfaceAsCommonClassSignature\obj\Debug\InterfaceAsCommonClassSignature.exe
+C:\Users\VLINK\Documents\Visual Studio 2017\Projects\InterfaceTest\InterfaceAsCommonClassSignature\obj\Debug\InterfaceAsCommonClassSignature.pdb
