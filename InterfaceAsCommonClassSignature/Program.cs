@@ -16,8 +16,7 @@ namespace InterfaceAsCommonClassSignature
 
                 if (task is IConsumer con)
                 {
-                    Console.WriteLine($" {con.Name}");
-                    cw
+                    Console.WriteLine($" {con.Name}");                    
                 }
             }
             Console.ReadKey();

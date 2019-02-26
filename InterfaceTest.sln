@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAsCommonClassSignature", "InterfaceAsCommonClassSignature\InterfaceAsCommonClassSignature.csproj", "{F43677B0-4819-433F-A6E0-5EFD0EE76AFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAsExtensibilityAndDependencyInjection", "InterfaceAsExtensibilityAndDependencyInjection\InterfaceAsExtensibilityAndDependencyInjection.csproj", "{A5F31E65-473D-423B-A6C7-B4A1E5975827}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F43677B0-4819-433F-A6E0-5EFD0EE76AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F43677B0-4819-433F-A6E0-5EFD0EE76AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F43677B0-4819-433F-A6E0-5EFD0EE76AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F31E65-473D-423B-A6C7-B4A1E5975827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F31E65-473D-423B-A6C7-B4A1E5975827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F31E65-473D-423B-A6C7-B4A1E5975827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F31E65-473D-423B-A6C7-B4A1E5975827}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
